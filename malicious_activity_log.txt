@@ -1,0 +1,3 @@
+Voice detected: hello hello hello hello hello
+Voice detected: hello
+Voice detected: am I audible

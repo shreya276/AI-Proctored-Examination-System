@@ -1,0 +1,14 @@
+opencv-python
+opencv-contrib-python
+dlib
+numpy
+face_recognition # Optional, if using face_recognition library
+face-recognition  
+pillow          # For image handling
+imutils 
+tkinter  
+sqlite3  
+shutil  
+pyaudio 
+speechrecognition
+pipwin

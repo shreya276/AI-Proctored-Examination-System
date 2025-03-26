@@ -1,0 +1,34 @@
+project-root/
+│
+├── proctored_exam.py           # Main exam proctoring script
+├── face_detection.py           # Face detection logic (for detecting multiple faces)
+├── utils/
+│   └── database.py             # Database handling for login/registration (optional)
+├── models/
+│   └── face_recognition_model  # Folder for storing the trained face recognition models
+├── data/
+│   ├── images/                 # Folder for storing user photos for face verification
+│   └── logs/                   # Log files for tracking warnings and exam statuses
+└── requirements.txt            # Required packages
+---------------------------------------------------------------------
+ProctoredExamSystem/
+│
+├── proctored_exam.py           # Main exam proctoring script
+├── face_detection.py           # Face detection logic
+├── utils/
+│   └── database.py             # Database functions
+├── models/                     # Placeholder for face recognition models (if needed)
+├── data/
+│   ├── images/                 # User photos for face verification
+│   └── logs/                   # Logs for tracking warnings and events
+└── requirements.txt            # Dependencies
+
+---------------------------------------------------------------------
+ProctoredExamSystem/
+│
+├── main.py                # Main entry point of the application
+├── database.py            # Handles database operations
+├── face_recognition.py     # Handles face recognition logic
+├── gui.py                 # Handles the GUI interface
+└── utils/
+    └── images/            # Directory to store user images
